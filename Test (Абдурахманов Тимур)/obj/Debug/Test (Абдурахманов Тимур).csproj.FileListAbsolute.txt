@@ -1,0 +1,42 @@
+D:\Sinzxc\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\bin\Debug\Test (Абдурахманов Тимур).exe.config
+D:\Sinzxc\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\bin\Debug\Test (Абдурахманов Тимур).exe
+D:\Sinzxc\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\bin\Debug\Test (Абдурахманов Тимур).pdb
+D:\Sinzxc\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).csproj.AssemblyReference.cache
+D:\Sinzxc\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).csproj.SuggestedBindingRedirects.cache
+D:\Sinzxc\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Form1.resources
+D:\Sinzxc\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Properties.Resources.resources
+D:\Sinzxc\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).csproj.GenerateResource.cache
+D:\Sinzxc\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).csproj.CoreCompileInputs.cache
+D:\Sinzxc\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).exe
+D:\Sinzxc\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).pdb
+D:\Sinzxc\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Form2.resources
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\bin\Debug\Test (Абдурахманов Тимур).exe.config
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\bin\Debug\Test (Абдурахманов Тимур).exe
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\bin\Debug\Test (Абдурахманов Тимур).pdb
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).csproj.AssemblyReference.cache
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).csproj.SuggestedBindingRedirects.cache
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Form1.resources
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Form2.resources
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Properties.Resources.resources
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).csproj.GenerateResource.cache
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).csproj.CoreCompileInputs.cache
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).exe
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).pdb
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Form3.resources
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\bin\Debug\Test (Абдурахманов Тимур).exe.config
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\bin\Debug\Test (Абдурахманов Тимур).exe
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\bin\Debug\Test (Абдурахманов Тимур).pdb
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).csproj.AssemblyReference.cache
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).csproj.SuggestedBindingRedirects.cache
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Form1.resources
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Form2.resources
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Form3.resources
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Form4.resources
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Properties.Resources.resources
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).csproj.GenerateResource.cache
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).csproj.CoreCompileInputs.cache
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).exe
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test (Абдурахманов Тимур).pdb
+E:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Form5.resources
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Form4.resources
+F:\Test (Абдурахманов Тимур)\Test (Абдурахманов Тимур)\obj\Debug\Test__Абдурахманов_Тимур_.Form5.resources
